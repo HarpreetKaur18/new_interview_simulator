@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  overscroll-behavior: contain;
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #000511, #05000a);
+}
+
