@@ -29,7 +29,7 @@ Level up your communication and confidence — **before the real interview!**
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://github.com/HarpreetKaur18/Interview-Simulator)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://newinterviewsimulator-o90c60c0u.vercel.app/)
 
 ---
 
