@@ -68,7 +68,7 @@ npm run dev
 
 ## 🙋‍♀️ Made By
 
-###Harpreet Kaur 💜
+### Harpreet Kaur 💜
 
 🔗 LinkedIn - www.linkedin.com/in/harpreet-kaur005
 
