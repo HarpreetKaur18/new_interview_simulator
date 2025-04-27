@@ -29,8 +29,7 @@ Level up your communication and confidence — **before the real interview!**
 
 ## 🚀 Live Demo
 
-> [🔗 Visit Interview Practice Simulator Live](https://your-vercel-link.vercel.app)  
-(Add this link after deploying to Vercel!)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://github.com/HarpreetKaur18/Interview-Simulator)
 
 ---
 
